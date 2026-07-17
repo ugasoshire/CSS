@@ -1,0 +1,17 @@
+div {
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  /* border-style:solid;
+    border-color: red;
+    border-width: 20px; */
+  border: solid red 20px;
+  border-radius: 20px;
+
+  /* outline-style:solid;
+    outline-color: blue;
+    outline-width: 20px; */
+  outline: solid blue 20px;
+  outline-offset: 1px;
+  margin: 100px;
+}
