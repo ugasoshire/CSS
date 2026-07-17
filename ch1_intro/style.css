@@ -1,0 +1,35 @@
+*{
+    border-style: solid;
+    
+}
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+p {
+  color: red;
+}
+h2 {
+  color: yellow;
+  text-align: center;
+}
+#the-london-one{
+    color: green;
+    text-decoration: none;
+}
+div{
+    color: aqua;
+    text-align: center;
+}
+.the-big-text{
+text-transform: uppercase;
+}
+
+span{
+    color: red;
+    text-align: center;
+}
