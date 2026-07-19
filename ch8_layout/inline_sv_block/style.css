@@ -1,0 +1,14 @@
+span{
+    background-color: yellow;
+    margin-top: 2px;
+    display: block;
+
+
+}
+div{
+    background-color: yellow;
+    margin-top: 2px;
+    display: inline;
+
+
+}
