@@ -1,8 +1,9 @@
 div{
-    position: static;
+    position: relative;
     height: 200px;
     width: 200px;
     border-style: solid;
     border-width: 10px;
     border-color: aqua;
+    
 }
